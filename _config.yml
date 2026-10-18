@@ -25,7 +25,7 @@ avatar_image: /img/profile_pic.jpg
 linkedln: "https://linkedin.com/in/lukasz-kolodziej-40222a129" # Add your linkedln handle
 github: "https://github.com/LKOLOLEE"  # Add your github handle
 
-paginate: 6
+paginate: 10
 paginate_path: "/page/:num"
 
 sass:
