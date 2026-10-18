@@ -9,7 +9,7 @@ plugins:
 #-------------------------------
 # General Site Settings
 title: Lukasz Kolodziej
-description: "Hi I'm Lukasz, and I'm a BI Developer | Technical Business Analyst | Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages (or download my Resume) by using the links below!"
+description: "Hi I'm Lukasz, and I'm a BI Developer | Technical Business Analyst | Data Scientist.  My portfolio focuses on interesting projects I've recently undertaken, with a strong emphasis on business impact. Please visit my Github & LinkedIn pages. # (or download my Resume) by using the links below!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -17,7 +17,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # About Section
 subtitle: Data Science <span style="color:#d664e3"> Portfolio </span>
 location: "Malbork, Poland"
-resume_url: /docs/lukasz-kolodziej-resume.pdf
+resume_url: "" # /docs/lukasz-kolodziej-resume.pdf
 avatar_image: /img/profile_pic.jpg
 
 #-------------------------------
